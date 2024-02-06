@@ -79,3 +79,6 @@ The tutorial outlines the configuration of a Next.js 13 application, referencing
 
 The Discord clone project boasts feature-rich capabilities, including real-time updates, a fallback mechanism for connection failure, dark mode, and optimized image loading. The tutorial provides a holistic understanding of the technologies employed and demonstrates the creation of a modern communication platform.
 
+###Images
+
+![Clerk Server used for signup/Login](https://github.com/pragya888/fullstack-discord-app/assets/78594510/1f4035ad-42b1-4656-8b76-57e5ffe9345a)
