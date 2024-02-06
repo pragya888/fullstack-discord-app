@@ -81,4 +81,24 @@ The Discord clone project boasts feature-rich capabilities, including real-time 
 
 ###Images
 
-![Clerk Server used for signup/Login](https://github.com/pragya888/fullstack-discord-app/assets/78594510/1f4035ad-42b1-4656-8b76-57e5ffe9345a)
+
+![Screenshot (36)](https://github.com/pragya888/fullstack-discord-app/assets/78594510/f18f4776-4543-42db-a134-375338bfedf1)
+![Screenshot (37)](https://github.com/pragya888/fullstack-discord-app/assets/78594510/58f6599f-fbc9-43ef-9768-db0565df729d)
+![Screenshot (38)](https://github.com/pragya888/fullstack-discord-app/assets/78594510/e619345a-d1e9-4418-a8e8-8ac2f7864b01)
+![Screenshot (39)](https://github.com/pragya888/fullstack-discord-app/assets/78594510/bae9fc74-0410-46e4-80b8-fcf0a0a9d255)
+![Screenshot (41)](https://github.com/pragya888/fullstack-discord-app/assets/78594510/3e2db161-93c0-4d43-80c8-3f1c8e5ceaf3)
+![Screenshot (42)](https://github.com/pragya888/fullstack-discord-app/assets/78594510/e90a2a5e-0859-4310-b1ad-60372a9d742e)
+![Screenshot (43)](https://github.com/pragya888/fullstack-discord-app/assets/78594510/92ef53cc-da09-4353-bc10-b6e575f2da96)
+![Screenshot (44)](https://github.com/pragya888/fullstack-discord-app/assets/78594510/6e9642f1-c2b7-4f31-8867-b3c45520f2fb)
+![Screenshot (45)](https://github.com/pragya888/fullstack-discord-app/assets/78594510/972eeafe-eff3-4a03-9627-f4814fc127be)
+![Screenshot (46)](https://github.com/pragya888/fullstack-discord-app/assets/78594510/267c317f-4039-4472-9e4b-593df0d2a1d5)
+![Screenshot (47)](https://github.com/pragya888/fullstack-discord-app/assets/78594510/9cfb9b72-1f98-427a-8934-3e9f45566073)
+![Screenshot (48)](https://github.com/pragya888/fullstack-discord-app/assets/78594510/ab7db2ec-f664-4ef3-894c-7f707a46b4b1)
+![Screenshot (49)](https://github.com/pragya888/fullstack-discord-app/assets/78594510/db5f2415-5000-46ce-8205-88cdfbfce29a)
+![Screenshot (50)](https://github.com/pragya888/fullstack-discord-app/assets/78594510/138fab2e-bf84-4f83-b196-9f8376409c00)
+![Screenshot (51)](https://github.com/pragya888/fullstack-discord-app/assets/78594510/55ffca4d-c69a-4a9a-b12a-58cabbbc2327)
+![Screenshot (52)](https://github.com/pragya888/fullstack-discord-app/assets/78594510/989c0a22-a7aa-49cf-a7db-268239a515c0)
+![Screenshot (53)](https://github.com/pragya888/fullstack-discord-app/assets/78594510/bfbce26d-dab4-4907-9314-05fbcce8e2aa)
+<img width="960" alt="Screenshot 2024-02-06 232015" src="https://github.com/pragya888/fullstack-discord-app/assets/78594510/d4349b7a-125c-462f-8bab-89c9ab7d56a9">
+
+
