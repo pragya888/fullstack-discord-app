@@ -83,9 +83,7 @@ The Discord clone project boasts feature-rich capabilities, including real-time 
 
 
 ![Screenshot (36)](https://github.com/pragya888/fullstack-discord-app/assets/78594510/f18f4776-4543-42db-a134-375338bfedf1)
-![Screenshot (37)](https://github.com/pragya888/fullstack-discord-app/assets/78594510/58f6599f-fbc9-43ef-9768-db0565df729d)
-![Screenshot (38)](https://github.com/pragya888/fullstack-discord-app/assets/78594510/e619345a-d1e9-4418-a8e8-8ac2f7864b01)
-![Screenshot (39)](https://github.com/pragya888/fullstack-discord-app/assets/78594510/bae9fc74-0410-46e4-80b8-fcf0a0a9d255)
+
 ![Screenshot (41)](https://github.com/pragya888/fullstack-discord-app/assets/78594510/3e2db161-93c0-4d43-80c8-3f1c8e5ceaf3)
 ![Screenshot (42)](https://github.com/pragya888/fullstack-discord-app/assets/78594510/e90a2a5e-0859-4310-b1ad-60372a9d742e)
 ![Screenshot (43)](https://github.com/pragya888/fullstack-discord-app/assets/78594510/92ef53cc-da09-4353-bc10-b6e575f2da96)
